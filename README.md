@@ -1,7 +1,7 @@
-# RFM-Customer-Segmentation - Analysis
+# RFM-Customer-Segmentation and nalysis
 
 
-This project applies **RFM (Recency, Frequency, Monetary)** analysis to segment customers from an e-commerce dataset, helping businesses understand customer behavior and improve marketing strategies. It combines Python analysis, Unsupervised machinelearning with Power BI dashboard visualization.
+This project applies **RFM (Recency, Frequency, Monetary)** analysis to segment customers and churn analysis e-commerce dataset, helping businesses understand customer behavior and improve marketing strategies. It combines Python analysis, Unsupervised machinelearning with Power BI dashboard visualization.
 
 
 
@@ -23,6 +23,7 @@ This project applies **RFM (Recency, Frequency, Monetary)** analysis to segment 
 - KMeans clustering Algorithm for customer segmentation
 - Cluster profiling and insights
 - Power BI dashboard showcasing RFM profiles and KPIs
+- churn analysis using DAX
 
 
 
